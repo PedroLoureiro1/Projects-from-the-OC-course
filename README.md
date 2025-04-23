@@ -1,1 +1,2 @@
-# Projects-from-the-OC-course
+# Projetos-OC
+Projetos da cadeira Organização de Computadores
